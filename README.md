@@ -12,6 +12,5 @@ _circuit for SIM800 firmware update through UART to USB_
 
 **Protocol Gateway**
 There is another solution which is Reverse Proxy (gatewaying) through a web server using NGINX. 
-.
-.
-.
+. [Some useful articles](https://www.reddit.com/r/nginx/comments/1ad1m7e/nginx_upstream_proxy_sends_request_in_tls_10/) <br>
+
